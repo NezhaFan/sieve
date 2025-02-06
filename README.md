@@ -47,7 +47,7 @@
 
 ### 代码
 
-- 引用 `go get -u github.com/tomatocuke/sieve@latest`
+- 引用 `go get -u github.com/nezhafan/sieve@latest`
 - 代码参见 `sieve_test.go`
 
 
